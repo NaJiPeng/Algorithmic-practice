@@ -1,6 +1,5 @@
 package linear_list;
 
-import java.util.ArrayList;
 import java.util.Random;
 
 public class MyArrayList<T> implements LinearList<T> {
